@@ -1,6 +1,6 @@
 # Deep Learning System for Image Retrieval
 
-Can find more information about it here -> https://medium.com/@sraosumanth/attention-in-multi-modal-machine-learning-problems-67cd0aeb3964
+Can refer to this medium article to find out more about the technical details and thought process behind this project ->  https://medium.com/@sraosumanth/attention-in-multi-modal-machine-learning-problems-67cd0aeb3964
 
 
 ## How to run the project
