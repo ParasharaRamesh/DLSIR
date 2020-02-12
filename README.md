@@ -37,19 +37,6 @@ Listed below are all the experiments we conducted so far:
     * Inception + SelfAttention(fastext)
     * SelfAttention(inception) + SelfAttention(fastext)
     
-## Results
-
-![](/metrics/results.JPG)
-
-In the models column, each model has been named in the following format:
-
-> MODEL_NAME [configuration]
-`configuration refers to layers used in the model architecture.`
-
-Here the models labelled as SA1, SA2 and DSA refer to models which are different experiments conducted by using the “Self Attention” layer found in “transformer networks”.
-  1. SA1: Self Attention Model 1 where we used the multi head self-attention layer as a part of the decoder side. i.e on the images.
-  2. SA2: Self Attention Model 2 where we used the multi head self-attention layer as a part of the encode side. i.e on the captions
-  3. DSA: Double Self Attention Model where we used the multihead self-attention layer in both the encoder and the decoder side of the model architecture.
 
 ## How to run the project
 
